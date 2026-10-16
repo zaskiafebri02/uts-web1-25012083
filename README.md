@@ -73,7 +73,7 @@ Aplikasi pemesanan menu kantin kampus berbasis web menggunakan **PHP Native** ta
 - ✅ Pesan notifikasi (flash message) hanya ditampilkan satu kali
 - ✅ Melakukan refresh halaman tidak akan mengulangi penambahan pesanan
 
-### Tahap 7 — Preferensi Kategori dengan Cookie
+### Tahap 7 — Preferensi Kategori dengan Cookie Selesai
 - ✅ Menyimpan kategori yang dipilih ke dalam **Cookie** selama **7 hari**
 - ✅ Saat halaman dibuka kembali, kategori yang dipilih sebelumnya otomatis aktif dari Cookie
 - ✅ Jika ada parameter `?kategori=` melalui URL, nilai tersebut yang digunakan (prioritas: **GET > Cookie**)
