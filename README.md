@@ -32,7 +32,7 @@ Aplikasi pemesanan menu kantin kampus berbasis web menggunakan **PHP Native** ta
 - ✅ Membuat struktur folder sesuai ketentuan
 - ✅ Membuat file README.md berisi identitas dan dokumentasi
 
-### Tahap 2 — Daftar Menu dan Pencarian
+### Tahap 2 — Daftar Menu dan Pencarian Selesai
 - ✅ Menyediakan minimal 5 menu dalam bentuk array asosiatif
 - ✅ Setiap menu berisi: kode unik, nama, kategori, dan harga
 - ✅ Menampilkan seluruh menu menggunakan perulangan `foreach`
