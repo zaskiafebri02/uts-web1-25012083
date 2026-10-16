@@ -67,7 +67,7 @@ Aplikasi pemesanan menu kantin kampus berbasis web menggunakan **PHP Native** ta
 - Subtotal **Rp49.000** → Diskon Rp0 → Total akhir Rp49.000
 - Subtotal **Rp50.000** → Diskon Rp5.000 → Total akhir Rp45.000
 
-### Tahap 6 — Pemisahan File dan Post/Redirect/Get
+### Tahap 6 — Pemisahan File dan Post/Redirect/Get Selesai
 - ✅ Memisahkan komponen ke dalam file terpisah menggunakan `include` dan `require`
 - ✅ Setelah pemrosesan POST berhasil, halaman dialihkan menggunakan `header()`
 - ✅ Pesan notifikasi (flash message) hanya ditampilkan satu kali
