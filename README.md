@@ -40,7 +40,7 @@ Aplikasi pemesanan menu kantin kampus berbasis web menggunakan **PHP Native** ta
 - ✅ Menampilkan pesan informatif ketika hasil pencarian tidak ditemukan
 - ✅ Filter menu berdasarkan kategori
 
-### Tahap 3 — Form Pemesanan dan Validasi Input
+### Tahap 3 — Form Pemesanan dan Validasi Input Selesai
 - ✅ Form penambahan pesanan menggunakan metode **POST**
 - ✅ Validasi di sisi server:
 - Kode menu harus terdaftar dalam daftar menu
