@@ -59,7 +59,7 @@ Aplikasi pemesanan menu kantin kampus berbasis web menggunakan **PHP Native** ta
 - ✅ Menampilkan pesan ketika keranjang masih kosong
 - ✅ Isi keranjang tetap tersedia meskipun pengguna berpindah halaman atau me-refresh browser
 
-### Tahap 5 — Fungsi Perhitungan dan Diskon
+### Tahap 5 — Fungsi Perhitungan dan Diskon Selesai
 - ✅ Membuat dan menggunakan fungsi khusus untuk perhitungan:
 - `hitungSubtotal($harga, $jumlah)` — menghitung harga × jumlah
 - `hitungTotal($keranjang)` — menghitung subtotal seluruh pesanan, diskon, dan total akhir
